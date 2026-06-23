@@ -1,4 +1,4 @@
-# CGPA_CAlCULATOR_JAVA
+# CGPA_CALCULATOR_JAVA
 A simple GUI calculator to calculate  semester GPA and Cumulative GPA with full input validation.
 
 ## Features
