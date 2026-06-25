@@ -27,5 +27,5 @@ try-catch blocks , NumberFormatException handling , While(true)  validation loop
 
 ## New features 
 
--**Coming Soon !**
+**Coming Soon !**
 
